@@ -7,17 +7,21 @@ background-color: #090b1a;
 
 .middle-container{
   height: 446px;
-  width: 1440px;
+  width: 700px;
   background-color: #1b1938;
-  margin: auto;
+  margin-left: 300px;
   position: relative;
   margin-top: 250px;
-  border-radius: 10px;
+  border-radius: 20px 0 0 20px;
+
 }
+
 .image-header{
   float: right;
   border-radius: 0 10px 10px 0;
-  background-color:  #aa5cdb;
+  background-color:   #8a3ac9;
+  opacity: 0.5;
+
 
 
 
@@ -50,7 +54,7 @@ font-family: 'Lexend Deca', sans-serif;
   background-color:  #1b1938;
   margin-left: 50px;
   margin-top: 50px;
-  
+
 }
 .p-font{
 
@@ -69,8 +73,18 @@ font-family: 'Lexend Deca', sans-serif;
   margin-top: 0;
 }
 .image{
-  background-color: purple;
-  height: 200px;
-  width:200px;
+  background-color:  #8a3ac9;
+
+  height: 446px;
+  width: 540px;
+
   float: right;
+  border-radius: 0 10px 10px 0;
+  margin-right: 345px;
+
+position: relative;
+bottom: 445px;
+
+
+
 }
